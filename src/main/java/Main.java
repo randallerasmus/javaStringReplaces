@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
-
+//        This program uses the java strings replace method from the stringutils class
     public static void main(String[] args) {
 
         StringBuilder builder = new StringBuilder();
